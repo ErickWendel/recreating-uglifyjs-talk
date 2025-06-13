@@ -20,7 +20,7 @@ Unlock the secrets of code minification and source map generation! In this sessi
 - [Source Code](#-source-code)
 - [Premium Content](#-premium-content)
 - [References](#-references)
-- [Getting Started](#-getting-started)
+- [Getting Started](#%EF%B8%8F-getting-started)
 - [Feedback](#-feedback)
 
 ## 🎤 Slides
