@@ -25,13 +25,13 @@ Unlock the secrets of code minification and source map generation! In this sessi
 
 ## 🎤 Slides
 
-- [View the slides](https://ewbr.cc/recreating-uglify-code)
+- [View the slides](https://ewbr.cc/recreating-uglify-slides)
 - [View the video](https://ewbr.cc/uglify-video)
 
 ## 💻 Source Code
 
 - [Step-by-step UglifyJS recreation](https://ewbr.cc/recreating-uglify-code)
-- [ESLint Clone (related project)](https://github.com/ErickWendel/eslint-clone)
+- [ESLint Clone tutorial(related project)](https://ewbr.cc/eslint-video)
 
 ## 🏆 Premium Content
 
