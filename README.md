@@ -16,12 +16,12 @@ Unlock the secrets of code minification and source map generation! In this sessi
 
 ## 📚 Table of Contents
 
-- [Slides](#slides)
-- [Source Code](#source-code)
-- [Premium Content](#premium-content)
-- [References](#references)
-- [Getting Started](#getting-started)
-- [Feedback](#feedback)
+- [Slides](#-slides)
+- [Source Code](#-source-code)
+- [Premium Content](#-premium-content)
+- [References](#-references)
+- [Getting Started](#-getting-started)
+- [Feedback](#-feedback)
 
 ## 🎤 Slides
 
@@ -58,7 +58,7 @@ Unlock the secrets of code minification and source map generation! In this sessi
 
 ## 🛠️ Getting Started
 
-This repository is a companion to the talk and serves as a reference hub. For hands-on code, check out the [source code links above](#source-code).
+This repository is a companion to the talk and serves as a reference hub. For hands-on code, check out the [source code links above](#-source-code).
 
 ## 💬 Feedback
 
